@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, and JAVASCRIPT
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me: porneldeyb10@gmail.com
-- 😄 Pronouns: 
 - ⚡ Fun fact: sense of humor
 
 <!---
